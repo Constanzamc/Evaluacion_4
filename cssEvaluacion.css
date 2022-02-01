@@ -6,8 +6,10 @@
 	color: ;
 	margin: 10px;
 	border-radius: 35%;
-	transition: width 6s;
+	transition-duration: width 6s;
 }
+
+
 #container{
 	width: 600px;
 	margin: 0 auto;
