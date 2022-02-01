@@ -6,9 +6,9 @@
 	color: ;
 	margin: 10px;
 	border-radius: 35%;
-	transition-duration: background 2s;
-	-webkit-transition: background 2s;
-  -moz-transition: background 2s;
+	transition-duration: background 1s;
+	-webkit-transition: background 1s;
+  -moz-transition: background 1s;
 }
 
 
